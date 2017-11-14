@@ -6,6 +6,7 @@ PGM_REL  = 0.1.1
 WORKDIR  = work
 FILES    = org.calalum.ranga.$(PGM_NAME).plist.in \
 	   README.txt \
+           LICENSE.txt \
            Makefile
 
 all:
