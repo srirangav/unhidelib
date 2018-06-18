@@ -25,3 +25,15 @@ History:
 v. 0.1.2 (06/18/2018) - Fix permissions on Launch Agent directory
 v. 0.1.1 (05/16/2013) - Add killall Dock to Makefile and README
 v. 0.1.0 (09/17/2012) - Initial release
+
+License:
+
+See LICENSE.txt
+
+See Also:
+
+See Also:
+
+https://nathangrigg.com/2012/07/schedule-jobs-using-launchd#plist
+https://stackoverflow.com/questions/4485972/library-launchagents-plist-runs-manually-but-not-automatically#10580187
+
