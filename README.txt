@@ -1,4 +1,4 @@
-README for unhidelib 0.1.1
+README for unhidelib 0.1.2
 By Sriranga Veeraraghavan <ranga@calalum.org>
 
 unhidelib is a LaunchAgent plist file for MacOSX Lion (10.7) newer that
@@ -22,5 +22,6 @@ Log out and log back in
 
 History:
 
+v. 0.1.2 (06/18/2018) - Fix permissions on Launch Agent directory
 v. 0.1.1 (05/16/2013) - Add killall Dock to Makefile and README
 v. 0.1.0 (09/17/2012) - Initial release
